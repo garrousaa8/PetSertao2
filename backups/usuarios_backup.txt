@@ -1,0 +1,2 @@
+--- LISTA DE USUÁRIOS ---
+[{'nome': 'Admin Padrão', 'nascimento': '01/01/2000', 'tipo': 'ADMIN', 'email': 'admin@petsertao.com', 'senha': '123'}, {'nome': 'calebe', 'nascimento': '10/08/2004', 'tipo': 'ADMIN', 'email': 'silvacalebe@gmail.com', 'senha': 'calebe'}]
